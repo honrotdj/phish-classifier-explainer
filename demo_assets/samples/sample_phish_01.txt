@@ -1,0 +1,6 @@
+From: "PayPal Security" <alerts@notify-paypal-security.net>
+Subject: URGENT: Verify now or account will be suspended
+
+Your account has been limited. Verify now: https://bit.ly/verify-paypal
+Please confirm your password and 2FA within 24 hours.
+Attachment: invoice.html

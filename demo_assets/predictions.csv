@@ -1,0 +1,5 @@
+file,label,prob
+sample_ham_01.txt,Safe,0.454472
+sample_ham_02.txt,Safe,0.430085
+sample_phish_01.txt,Phish,0.756042
+sample_phish_02.txt,Phish,0.760646

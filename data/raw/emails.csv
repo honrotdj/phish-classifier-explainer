@@ -1,0 +1,329 @@
+﻿text,label
+Verify your account immediately or it will be suspended. Click https://login.secure-verify.example.com,phish
+Your Amazon package has shipped. Track here: https://amazon.com/orders,ham
+URGENT: Your password expires today. Login now to avoid deactivation.,phish
+Team meeting moved to 3pm. Agenda attached.,ham
+Payment overdue. Send a gift card code to settle invoice.,phish
+Class reminder: homework due Friday.,ham
+Congratulations! You won a reward. Claim at http://prizes.free-now.co,phish
+Lunch tomorrow?,ham
+Security check required: verify identity at https://secure-check.example.net/login,phish
+Thanks for your help today. See you at practice.,ham
+Limited time offerâ€”confirm your bank details to avoid account lock.,phish
+Invoice attached for August services.,ham
+"Password reset requested. If this wasnâ€™t you, login here to cancel.",phish
+"Project update: milestone reached, no action needed.",ham
+Apple Support: unusual activityâ€”confirm your credentials now.,phish
+Reminder: doctor appointment on Thursday 2pm.,ham
+Your mailbox is almost full. Verify now to increase storage.,phish
+Can you review the slides before class?,ham
+Overdue paymentâ€”send BTC to the following address.,phish
+Schedule change: lab moved to Room 204.,ham
+Microsoft alert: sign in to keep your account active.,phish
+Dinner at 7?,ham
+Claim your prize immediately: http://free-reward.xyz/win,phish
+Meeting notes attached from todayâ€™s standup.,ham
+URGENT: Your mailbox is full. Verify now at http://203.88.145.22/login,phish
+Apple Support: unusual activity detected. Reset your password here: https://apple-secure-check.net,phish
+PayPal Security Alert: confirm your identity at https://bit.ly/secure-paypal,phish
+Your Netflix account has been suspended. Update billing info immediately.,phish
+HR: New salary bonus available. Sign in with your credentials to claim.,phish
+Microsoft Admin: verify your email password to keep your account active.,phish
+Amazon Order Problem: please enter card details to continue shipment.,phish
+Final Warning: failure to act will lock your account. Click here.,phish
+You have won a $500 Walmart gift card. Enter details at http://freeprize-now.co,phish
+Security notice: unusual login attempt. Verify here: http://login-safe365.info,phish
+Bank of America Alert: update credentials to avoid account closure.,phish
+Overdue invoice — send BTC to wallet: 1Df4s9hkj23… to settle now,phish
+Your Paychex payroll is paused. Click to authenticate at https://tinyurl.com/hrverify,phish
+Verify shipping address to release your package: http://shipping-confirm.co,phish
+"Password reset request. If this wasn’t you, log in here to cancel.",phish
+University IT: revalidate your student ID to maintain access.,phish
+Claim your free tax refund. Enter SSN and bank routing now.,phish
+Final notice: confirm your Microsoft 365 password or account is disabled.,phish
+Attached invoice requires immediate payment. (attachment: invoice.zip),phish
+"Google Docs: someone shared a file, login to view: http://googledrive-login.co",phish
+Your Amazon order has shipped. Track: https://www.amazon.com/gp/css/order-history,ham
+Zoom invite: https://us06web.zoom.us/j/94532167890,ham
+Google Drive share: https://drive.google.com/file/d/1abcXYZ/view,ham
+GitHub PR updated: https://github.com/org/repo/pull/123,ham
+University payment portal: https://bursar.university.edu/pay,ham
+DocuSign envelope complete: https://www.docusign.net/Member/PowerFormSigning.aspx,ham
+Stripe receipt: https://dashboard.stripe.com/payments/pi_12345,ham
+Slack invite: https://join.slack.com/t/teamname/shared_invite/xyz,ham
+FedEx tracking: https://www.fedex.com/apps/fedextrack/?tracknumbers=123456789012,ham
+Bank statement available: https://secure.bank.com/login,ham
+Canvas assignment posted: https://canvas.instructure.com/courses/123/assignments/456,ham
+Outlook meeting details: https://outlook.office.com/calendar/item/ABCDEF,ham
+Your Amazon package has shipped: https://www.amazon.com/progress-tracker,ham
+Zoom link for tomorrow’s lecture: https://us06web.zoom.us/j/123456789,ham
+Google Calendar invite: https://calendar.google.com/event?eid=abc123,ham
+Canvas course announcement: https://canvas.instructure.com/courses/456/announcements,ham
+FedEx tracking number: https://www.fedex.com/fedextrack/?trknbr=123456789,ham
+Microsoft Teams meeting invite: https://teams.microsoft.com/l/meetup-join/xyz,ham
+Bank of America e-statement ready: https://www.bankofamerica.com/login,ham
+PayPal receipt: https://www.paypal.com/activity/payment/12345,ham
+Github issue assigned: https://github.com/org/repo/issues/42,ham
+Dropbox file shared: https://www.dropbox.com/s/abc123/project.pdf,ham
+DocuSign document completed: https://www.docusign.net/Member/Envelope.aspx,ham
+Spotify family plan receipt: https://www.spotify.com/account/receipt,ham
+Slack workspace invite: https://join.slack.com/t/teamname/shared_invite/123,ham
+University tuition payment portal: https://bursar.university.edu/pay,ham
+Outlook event details: https://outlook.office.com/calendar/item/12345,ham
+Starbucks rewards update: https://www.starbucks.com/account/rewards,ham
+Stripe payment confirmation: https://dashboard.stripe.com/payments/pi_67890,ham
+LinkedIn connection accepted: https://www.linkedin.com/in/example,ham
+Coursera certificate available: https://www.coursera.org/account/accomplishments/certificate/abc123,ham
+Grubhub order confirmation: https://www.grubhub.com/order/123456,ham
+Twitter security notice: https://twitter.com/settings/security,ham
+Uber trip receipt: https://riders.uber.com/trips/abc123,ham
+Eventbrite ticket QR code: https://www.eventbrite.com/e/987654321,ham
+Apple subscription renewal: https://appleid.apple.com/account/billing,ham
+Google Docs shared: https://docs.google.com/document/d/1abcXYZ/view,ham
+Reminder: practice moved to 7pm tonight.,ham
+Meeting tomorrow at 3pm in Room 201.,ham
+"Happy birthday, hope you have a great day!",ham
+Thanks again for your help with the project.,ham
+"Family dinner Sunday at 6pm, bring dessert.",ham
+Professor posted midterm grades on Canvas.,ham
+See you at the gym after class today.,ham
+Good luck on your exam tomorrow.,ham
+Attached is the agenda for Thursday’s meeting.,ham
+Don’t forget to submit your timesheet by Friday.,ham
+Let’s carpool to the conference at 8am.,ham
+Congrats on the internship offer!,ham
+The slides are ready for review this weekend.,ham
+Lunch tomorrow? Thinking of Chipotle.,ham
+Your order will be delivered between 2–4pm.,ham
+Great job on your presentation today.,ham
+"Mom’s flight lands at 5pm, pick her up at Terminal B.",ham
+"Birthday party Saturday at 7pm, don’t be late.",ham
+Doctor appointment Thursday at 2pm.,ham
+Team huddle right after class.,ham
+Homework due Friday night on Canvas.,ham
+Reminder: lab moved to Room 204 this week.,ham
+Thanks for covering my shift yesterday.,ham
+Practice canceled today due to weather.,ham
+Catch you at the movie Friday night.,ham
+"Georgia Department of Motor Vehicles (DMV) FINAL NOTICE: PENALTIES BEGIN July 3
+Our records show that as of today, you have an outstanding traffic ticket. In accordance with Georgia Administrative Code 15C-16.003, if you do not complete payment by 3 July 2025, we will do the following:
+
+report it to the DMV violation database
+
+suspend your vehicle registration effective 4 July;
+
+revoke your driving licence for a period of 30 days
+
+hand it over to a toll booth and charge a 35% service fee.
+
+you may be prosecuted and your credit score may be affected.
+Pay Now
+
+https://georgia.gov-bage.live/us
+
+Please pay immediately before enforcement to avoid licence suspension and further legal trouble.
+(Reply ‘Y’ and re-open this message to click on the link, or copy it to your browser)",phish
+"Hello! I am an HR representative from Indeed. We recently reviewed your resume and believe you are a great fit for a remote online job opportunity we have available.
+
+This is a flexible remote part-time/full-time online job where The role involves assisting merchants with product reviews. The job is simple, and we provide comprehensive guidance to help you get started quickly.
+
+Work only 60-90 minutes a day
+
+Daily pay ranges from $100 to $300, depending on your working hours
+
+Work from anywhere, any time
+
+If you would like to join us, please contact us via WhatsApp: +13019442768
+(Please note that applicants must be at least 23 years old to be eligible for this role)",phish
+"Hi there! I’m Emily from Indeed — hope I’m not catching you at a bad time.
+
+We’re currently hiring for a remote online position that pays $100–$600 per day.
+? You’ll work just 60–90 minutes daily, on your own schedule and from anywhere you like.
+? Payment is made every day.
+Important: You must be at least 21 years old to apply.
+If you meet this requirement and would like more details, please reply with “Yes” or “No.”
+
+Looking forward to your response!",phish
+"Hello, I am a recruitment assistant at Indeed. Your background and resume have been recommended by many online recruitment agencies. Therefore, we would like to offer you an excellent remote online part-time job to help the app store update data, increase app views and downloads, and provide you with free training. Flexible working hours, both part-time and full-time are available, working 60 to 90 minutes a day, 4 days a week, and earning extra income on weekends. You can work anytime and anywhere according to your own schedule, and earn $250 to $500 a day. The basic salary is $600 for every 3 days of work. Paid annual leave: In addition to maternity leave, paternity leave and other statutory holidays, ordinary employees also enjoy 15-20 days of paid annual leave. The company currently has 50 vacancies. If you want to join us, please send a text message to 19493379513 for more information.",phish
+"Hi, my name is Hannah and I'm from the Human Resources team at We Work Remotely! We recently reviewed your resume and think you're a great fit for our current remote online job opportunity.
+
+This is a flexible remote position that can be part-time or full-time. You will have the freedom to schedule your hours and work approximately 60 minutes per day. The pay is generous, with the ability to earn between $300 and $900 per day, ensuring that you earn at least $10,000 per month, paid on a daily basis. Additionally, all regular employees will be entitled to 15 to 25 days of paid annual leave (applicants must be at least 22 years old).
+If you are interested, please contact me via WhatsApp or Telegram!
+WhatsApp: +15205234341
+Telegram: @VpAnna861
+
+I look forward to hearing from you",phish
+"E-ZPass Final Reminder:
+You have an outstanding toll. Your toll account balance is outstanding. If you fail to pay by May 7, 2025. You will be penalized or subject to legal action.
+
+Now Payment:
+https://e-zpass.com-iotei.cc/us
+
+(Please reply Y, then exit the SMS and open it again to activate the link, or copy the link to your Safari browser and open it)
+Please settle your toll immediately after reading this message to avoid penalties for delaying the payment.
+Thank you for your cooperation.",phish
+"Apple Approval Notice
+
+We have noticed that your Apple iCloud id was recently used at ""APPLE STORE - CA"" for $143.95, paid by Apple Pay Pre Authorization. Also some suspicious sign in request and apple pay activation request detected. That looks like suspicious to us. In order to maintain the security and privacy of your account we have placed those request on hold. Your Photos, Data, Bank Information and Cards are at risk. If NOT you? talk to an Apple Representative. Failing may lead to auto debit and charge will not be reversed. Call +18052595601 immediately to cancel this charge.
+
+Billing Department: https://support.apple.com/billing
+
+Have a great day!",phish
+"Ohio State Department of Motor Vehicles (DMV) Final Notice: Enforcement Penalties Begin on Jun 12.
+Our records show that as of today, you still have an outstanding traffic ticket. In accordance with Ohio State Administrative Code 15C-16.003, if you do not complete payment by Jun 11, 2025, we will take the following actions:
+
+Report to the DMV violation database
+
+Suspend your vehicle registration starting Jun 12
+
+Suspend driving privileges for 30 days
+
+Transfer to a toll booth and charge a 35% service fee
+
+You may be prosecuted and your credit score will be affected
+
+Pay Now:
+http://bmv.ohiogovlxx.vip/pay
+
+Please pay immediately before enforcement to avoid license suspension.",phish
+"Ohio State Department of Motor Vehicles (BMV) Final Notice: Enforcement Penalties Begin on June 13.
+Our records show that as of today, you still have an outstanding traffic ticket. In accordance with Ohio State Administrative Code 15C-16.003, if you do not complete payment by June 12, 2025, we will take the following actions:
+
+Report to the DMV violation database
+
+Suspend your vehicle registration starting June 13
+
+Suspend driving privileges for 30 days
+
+Transfer to a toll booth and charge a 35% service fee
+
+You may be prosecuted and your credit score will be affected
+
+Pay Now:
+https://ohbmv.gov-alterir.zone/pay
+
+Please pay immediately before enforcement to avoid license suspension.",phish
+"Ohio State Department of Motor Vehicles (BMV) Final Notice: Enforcement Penalties Begin on June 14.
+Our records show that as of today, you still have an outstanding traffic ticket. In accordance with Ohio State Administrative Code 15C-16.003, if you do not complete payment by June 13, 2025, we will take the following actions:
+
+Report to the DMV violation database
+
+Suspend your vehicle registration starting June 14
+
+Suspend driving privileges for 30 days
+
+Transfer to a toll booth and charge a 35% service fee
+
+You may be prosecuted and your credit score will be affected
+
+Pay Now:
+https://bmvohio.gov-hyu.top/pay
+
+Please pay immediately before enforcement to avoid license suspension.",phish
+"UPS® Ground
+Reschedule Your Shipment Delivery
+
+We attempted to deliver your UPS package on June 29th, but were unable to contact you and the delivery could not be completed. Your package needs to be signed for in person, so please reschedule the delivery by doing the following.
+
+Reschedule Now:
+https://www.ups.com@govegs.co/us
+
+Options Include:
+• Selecting a new delivery date/time
+
+Just reply with 'Y', then close and reopen the message to make the link work. If that doesn’t do it, copy the link and paste it straight into Safari.",phish
+"Fidelity Investments Emergency Notice:
+
+We have detected unauthorized logins to your account. Please reply before July 11, 2025 to ensure your access.
+
+https://fidelity-internatinoal.top/securitycenter?EpR=Ai4Wo0
+
+(Reply Y and reopen this message, or copy the link to your browser.)
+
+Please take immediate action to prevent your account from being restricted. Thank you for using Fidelity Investments.",phish
+"Hello! My name is Megan Collins from Aquent. We were really impressed with your profile and would like to provide you the chance to take on a flexible remote role. In this position, you would assist merchants by updating their data, improving their visibility, and managing bookings effectively.
+You can work from anywhere for 60 to 90 minutes a day and earn anywhere from $200 to $500 each day, with a guaranteed $800 base every four days. There is a paid five-day trial period, and monthly earnings could exceed $5,000 with bonuses included. Comprehensive training and a full benefits package are included. Applicants must be at least 21 years of age.
+Don’t miss out on limited availability! Text 'Yes' to 5054858008 to find out more.",phish
+"Hello, I'm Mary from RemX. Recently, we learned about your outstanding background and would like to recommend you a high-paying remote job opportunity! You can choose part-time or full-time, and the work content is simple and can be completed at home. We provide about 60 minutes of free training for newcomers to ensure that newcomers are familiar with the work. The salary range is US$300 to US$700 per day, and the monthly income is guaranteed to be no less than US$10,000, and it is paid daily. In addition, full-time employees enjoy 15–25 days of paid annual leave, which is an ideal choice for those who really pursue work-life balance (requirements: 22 years old and above). If you are interested, please send me a message: +13467189009",phish
+PayPal Alert: Your account is limited. Confirm your details at https://paypal.verify-login.co,phish
+Amazon Account Suspended: Update payment info immediately at https://amazon-billing-center.com,phish
+Microsoft 365 Security Notice: Sign in now to avoid email deactivation.,phish
+Netflix Payment Failed: Reactivate service by updating card details here: https://netflix-renewal.com,phish
+Apple ID Locked: Reset your password at https://appleid.support-login.net,phish
+Bank of America Fraud Alert: Verify your account at http://boa-login-security.com,phish
+Chase Bank: Unusual login detected. Secure your account at https://chase-login-secure.biz,phish
+IRS Refund Available: Claim your $956 refund at https://irs-tax-refund-now.net,phish
+FedEx Delivery Failed: Reschedule package at http://fedex-delivery-update.co,phish
+UPS Final Notice: Confirm delivery details at https://ups-tracking-support.com,phish
+DocuSign Pending Document: Log in to sign at https://secure-docusign-login.org,phish
+Your Outlook Mailbox is almost full. Verify credentials to continue service.,phish
+Congratulations! You won a $500 Walmart gift card. Claim at http://freewalmartprize.net,phish
+Facebook Security Alert: Re-authenticate to unlock your account at https://facebook-login-secure.com,phish
+Instagram Verification Required: Confirm identity at http://ig-support-check.co,phish
+LinkedIn Account Restricted: Restore access now at https://linkedin-verify.org,phish
+Crypto.com Security Warning: Transfer funds to cold wallet immediately.,phish
+Final Invoice Due: Pay balance via Bitcoin wallet 1Df4s9hkj23…,phish
+QuickBooks Payment Overdue: View and pay invoice at https://qb-billing-update.org,phish
+University IT: Your password expires today. Click to renew access.,phish
+Google Drive Share: Log in to view document: http://googledocs-login.co,phish
+Dropbox Storage Full: Upgrade plan immediately to prevent data loss.,phish
+E-ZPass Outstanding Toll: Pay balance at http://ezpass-payments.net,phish
+Parking Authority: Unpaid fine. Settle online at https://city-parking-tickets.org,phish
+Apple Store Purchase Confirmed: $479. Cancel order here: http://apple-order-cancel.co,phish
+Venmo Account Frozen: Verify at https://venmo-secure.net,phish
+Zelle Transfer Pending: Release payment at http://zelle-verification.biz,phish
+Final Warning: Your Social Security Number will be suspended unless you confirm details.,phish
+Coinbase Alert: Unusual withdrawal detected. Cancel transaction at http://coinbase-secure-login.com,phish
+Delta Airlines: Flight cancelled. Rebook at https://delta-rebooking-support.co,phish
+Southwest Airlines: Free voucher available. Claim at http://southwest-rewards.org,phish
+COVID Relief Fund: Apply for assistance at https://gov-covid-relief-program.net,phish
+Student Loan Forgiveness Available. Enroll at http://studentloans-cancel.org,phish
+Google Account Locked: Log in at https://googleid-recovery.co,phish
+Yahoo Mailbox Upgrade Required: Confirm at http://yahoo-support-login.net,phish
+eBay Seller Notice: Account restricted. Resolve issue at https://ebay-seller-verify.org,phish
+Final Notice: Pay electric bill to avoid service termination. http://energy-billing-center.co,phish
+Water Utility: Past due balance. Pay immediately at https://city-utility-payments.net,phish
+Medical Insurance Refund: Claim payment at http://healthcare-refund.biz,phish
+HR Department: Salary bonus pending. Log in with work credentials to claim.,phish
+IT Support: Critical patch required. Install now: attachment “update.exe”,phish
+You have 1 voicemail waiting. Listen online at http://voicemail-access.co,phish
+Adobe Subscription Expired: Renew now at https://adobe-renewal-center.com,phish
+Spotify Premium Cancelled: Re-enter billing details to continue service.,phish
+TikTok Copyright Strike: Appeal decision here: http://tiktok-support-appeal.net,phish
+Snapchat Login Alert: Reconfirm password at https://snapchat-auth-login.co,phish
+Telegram Verification Needed: Confirm account at http://telegram-secure.biz,phish
+Amazon Prime Renewal Failed: Re-activate membership at https://prime-support-login.com,phish
+Steam Purchase Alert: $299 pending. Cancel here: http://steam-cancel-order.org,phish
+Epic Games Account Suspended: Recover at https://epic-login-security.co,phish
+Apple Music Subscription Cancelled: Update billing at http://applemusic-billing.org,phish
+IRS Lawsuit Pending: Resolve immediately at https://irs-legal-help.co,phish
+Final Notice: Student portal access will be revoked. Log in now.,phish
+Charity Drive: Donate via gift cards to support children in need.,phish
+Car Insurance Renewal Failed: Pay balance online at http://insurance-verify.biz,phish
+Bank Transfer on Hold: Log in to release payment at https://secure-wire-transfer.org,phish
+Government Assistance: Confirm eligibility by uploading ID at http://gov-aid-program.net,phish
+Survey Reward: Complete survey to receive $100 Amazon card. http://surveys-gift.org,phish
+Outlook Admin: Account suspension in 24 hours. Verify credentials at http://outlook-admin-login.co,phish
+Amazon Giveaway: Enter card info to confirm prize at https://amazon-giveaway.biz,phish
+Dropbox Security Alert: Unrecognized device login. Reset password at http://dropbox-login-reset.net,phish
+Google Photos Storage Exceeded: Buy more storage now at https://photos-upgrade-center.co,phish
+Your Amazon package is out for delivery: https://www.amazon.com/progress-tracker,ham
+Zoom meeting scheduled for 3pm today: https://us06web.zoom.us/j/987654321,ham
+Google Classroom assignment posted: https://classroom.google.com/c/12345/a/67890,ham
+FedEx tracking update: https://www.fedex.com/fedextrack/?tracknumbers=987654321,ham
+Canvas grade report available: https://canvas.instructure.com/courses/123/grades,ham
+Outlook calendar invite: https://outlook.office.com/calendar/item/ABC123,ham
+Dropbox file shared with you: https://www.dropbox.com/s/xyz123/report.pdf,ham
+Slack channel invite: https://join.slack.com/t/company/shared_invite/12345,ham
+Microsoft Teams call link: https://teams.microsoft.com/l/meetup-join/xyz987,ham
+GitHub pull request ready for review: https://github.com/org/repo/pull/456,ham
+Spotify subscription receipt: https://www.spotify.com/account/receipt,ham
+Bank of America online statement ready: https://www.bankofamerica.com/onlinebanking,ham
+DocuSign document completed: https://www.docusign.net/Member/Envelope.aspx,ham
+Grubhub order confirmation: https://www.grubhub.com/order/98765,ham
+Starbucks Rewards update: https://www.starbucks.com/account/rewards,ham
+Twitter password reset confirmation: https://twitter.com/settings/security,ham
+LinkedIn connection request accepted: https://www.linkedin.com/in/example,ham
+Eventbrite ticket confirmation: https://www.eventbrite.com/e/123456789,ham
+Apple order shipped: https://appleid.apple.com/account/orders,ham
+Kroger weekly ad available online: https://www.kroger.com/weeklyad,ham

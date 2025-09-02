@@ -1,0 +1,6 @@
+From: "Microsoft Admin" <it@corp-updates.info>
+Subject: Password reset required immediately
+
+Your mailbox is full. Reset your password here:
+http://203.31.217.5/login
+Failure to act will disable your email.
