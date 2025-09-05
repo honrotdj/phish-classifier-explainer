@@ -14,7 +14,7 @@ This demo shows how our AI detects phishing emails in real time.
 5. Type the filename you want to scan (example: sample_phish_01.txt).
 6. The classifier will show:
    - File scanned
-   - Prediction (Phish ⚠️ or Safe ✅)
+   - Prediction (Phish or Safe)
    - Confidence bar
    - Suspicious cues and URLs (if any)
 
