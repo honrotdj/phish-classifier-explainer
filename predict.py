@@ -42,26 +42,41 @@ def classify(pipe, text: str, threshold: float):
     return label, prob
 
 def pretty_print(res):
-    print("== RESULT ==")
-    print(f"Label: {res['label']}")
+    def bar(pct, width=24):
+        filled = int(round(pct * width))
+        return "[" + "█"*filled + "-"*(width-filled) + f"] {pct*100:.1f}%"
 
-    # probability bar
-    bar_len = 20
-    filled = int(res['prob'] * bar_len)
-    bar = "█" * filled + "-" * (bar_len - filled)
-    print(f"Confidence: [{bar}] {res['prob']:.1%}")
+    label = res["label"]
+    prob  = res["prob"]
+    cues  = res.get("explain", {}).get("cues", []) or []
+    urls  = res.get("explain", {}).get("urls", []) or []
+    fname = res.get("file", None)
 
-    cues = res["explain"].get("cues", [])
-    urls = res["explain"].get("urls", [])
+    tag = "[ALERT]" if label.lower() == "phish" else "[OK]"
+
+    print("\n" + "="*38)
+    if fname:
+        print(f"SCANNED FILE: {fname}")
+        print("="*38)
+    print(f"Label      : {label} {tag}")
+    if label.lower() == "phish":
+        print(">> Classified as phishing email (above threshold).")
+    else:
+        print(">> Classified as safe email (below threshold).")
+    print(f"Confidence : {bar(prob)}")
     if cues:
-        print("Why:")
+        print("Cues       :")
         for c in cues:
             print(f"  - {c}")
-        print(f"Top suspicious cue: {cues[0]}")
+    else:
+        print("Cues       : (none)")
     if urls:
-        print("URLs:")
+        print("URLs       :")
         for u in urls:
             print(f"  - {u}")
+    else:
+        print("URLs       : (none)")
+    print("="*38)
 
 def main():
     ap = argparse.ArgumentParser(description="Phishing classifier + explainer")

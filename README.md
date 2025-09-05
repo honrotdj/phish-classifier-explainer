@@ -1,18 +1,29 @@
-# Phishing Email Classifier + Explainer
+======================================
+PHISHING CLASSIFIER – DEMO INSTRUCTIONS
+======================================
 
-Demo project for career fair.
+This demo shows how our AI detects phishing emails in real time.
 
-- Train a baseline classifier (TF-IDF + Logistic Regression).
-- Add simple rule-based explanations highlighting phishing cues.
-- Show ROC curve + confusion matrix.
+1. Open Command Prompt.
+2. Navigate to the project folder:
+   cd C:\Users\dhonr\OneDrive\Documents\phish_classifier_explainer
+3. Run the demo menu:
+   scan_demo.bat
 
-## Quickstart
+4. You will see a list of available sample files (in demo_assets\samples).
+5. Type the filename you want to scan (example: sample_phish_01.txt).
+6. The classifier will show:
+   - File scanned
+   - Prediction (Phish ⚠️ or Safe ✅)
+   - Confidence bar
+   - Suspicious cues and URLs (if any)
 
-```bash
-python -m venv .venv
-# activate venv
-pip install -r requirements.txt
-python -m src.train --data data/raw --out data/processed
-```
+7. Type Q to quit the demo.
 
-Export notebooks to HTML for iPad demo.
+Tips:
+- Add your own .txt emails into demo_assets\samples to scan them.
+- Keep filenames simple (no spaces).
+- Threshold can be changed in predict.py (default is 0.7).
+- Model performance plots (ROC, Confusion Matrix) are in demo_assets/plots.
+
+
